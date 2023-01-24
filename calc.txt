@@ -2,3 +2,8 @@ add:
 get 2 numbers
 add both and store in variable
 return var
+
+sub:
+get 2 numbers
+substract both num and store in c
+return c
