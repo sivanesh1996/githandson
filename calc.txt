@@ -7,3 +7,8 @@ sub:
 get 2 numbers
 substract both num and store in c
 return c
+
+mult:
+get 2 numbers
+multiply both num and store in c
+return d
