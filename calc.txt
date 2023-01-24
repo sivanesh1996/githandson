@@ -1,0 +1,4 @@
+add:
+get 2 numbers
+add both and store in variable
+return var
